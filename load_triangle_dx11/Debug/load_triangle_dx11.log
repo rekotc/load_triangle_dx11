@@ -1,0 +1,13 @@
+﻿  cameraclass.cpp
+  d3dclass.cpp
+  graphicsclass.cpp
+d:\workspace\portatile-win\git\load_triangle_dx11\load_triangle_dx11\graphicsclass.cpp(32): warning C4316: 'D3DClass': l'oggetto allocato nell'heap può non essere allineato 16
+d:\workspace\portatile-win\git\load_triangle_dx11\load_triangle_dx11\graphicsclass.cpp(47): warning C4316: 'CameraClass': l'oggetto allocato nell'heap può non essere allineato 16
+  inputclass.cpp
+  main.cpp
+  modelclass.cpp
+  systemclass.cpp
+  textureclass.cpp
+  textureshaderclass.cpp
+  Generazione del codice in corso...
+  load_triangle_dx11.vcxproj -> D:\workspace\portatile-win\git\load_triangle_dx11\Debug\load_triangle_dx11.exe
